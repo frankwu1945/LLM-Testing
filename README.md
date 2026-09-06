@@ -1,5 +1,7 @@
 # LLM-Testing
-在本地端串接LLM模型與ChromaDB、Vtube Studio等工具完成模型驅動之Vtuber。
+
+旨在嘗試完成於本地端串接LLM模型與ChromaDB、Vtube Studio等工具完成模型驅動之Vtuber，並期望達到個人風格化的對話內容。
+
 本專案是經由AI協助完成。
 
 ---
