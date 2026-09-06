@@ -3,5 +3,6 @@
 
 ---
 
-流程圖為：
-<img src="img/LLM流程.png" width="100%" />
+系統流程圖為：
+
+<img src="img/LLM流程.png" width="60%" />
