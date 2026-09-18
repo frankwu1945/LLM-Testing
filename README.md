@@ -1,4 +1,4 @@
-# LLM-Testing
+# Local LLM VTuber Application
 
 旨在嘗試完成於本地端串接LLM模型與ChromaDB、Vtube Studio等工具完成模型驅動之Vtuber，並期望達到個人風格化的對話內容。
 
